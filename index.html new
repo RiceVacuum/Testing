@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>My Dark Blue Website</title>
+</head>
+<body>
+    <div class="navbar">
+        <button id="homeBtn">Home</button>
+        <button id="bioBtn">Bio</button>
+        <button id="linksBtn">My Links</button>
+    </div>
+    <div class="main">
+        <h1>Hi, I'm Brandon.</h1>
+    </div>
+    <div class="section" id="bioSection">
+        <h2>My Bio</h2>
+        <p>This is my bio. I do stuff.</p>
+    </div>
+    <div class="section" id="linksSection">
+        <h2>My Links</h2>
+        <p>Here is my YouTube link.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
